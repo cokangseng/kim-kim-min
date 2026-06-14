@@ -9,8 +9,8 @@
 
     <meta content="origin-when-cross-origin" name="referrer">
     <link rel="dns-prefetch" href="//s3.envato.com">
-    <title>LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya</title>
-    <meta name="description" content="LANDAKTOTO hadir sebagai YouthCamp situs toto online modern 2026 yang mengusung teknologi digital terbaru, akses cepat, sistem responsif, keamanan berlapis, serta pengalaman platform online yang nyaman. Bergabung bersama LANDAKTOTO dan nikmati layanan modern dengan performa stabil, fitur lengkap, serta dukungan profesional selama 24 jam.!">
+    <title>LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya</title>
+    <meta name="description" content="LANDAKTOTO hadir sebagai situs toto online modern 2026 yang mengusung teknologi digital terbaru, akses cepat, sistem responsif, keamanan berlapis, serta pengalaman platform online yang nyaman. Bergabung bersama LANDAKTOTO dan nikmati layanan modern dengan performa stabil, fitur lengkap, serta dukungan profesional selama 24 jam.!">
 	<link rel="amphtml" href="https://kim-kim-min.pages.dev/youthcamp.unisbank.ac.id/amp" />
     <link rel="alternate" hreflang="id-id" href="https://kim-kim-min.pages.dev/youthcamp.unisbank.ac.id/amp"/>
     <link rel="alternate" href="https://kim-kim-min.pages.dev/youthcamp.unisbank.ac.id/amp"/>
@@ -29,12 +29,12 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#000000">
-    <link rel="canonical" href="https://youthcamp.unisbank.ac.id/">
+    <link rel="canonical" href="https://dtsi.unisbank.ac.id/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya",
+  "name": "LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya",
   "image": "https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp",
   "description": "LANDAKTOTO hadir sebagai link situs slot gacor prioritas utama yang gampang menang di tahun 2026, menawarkan ribuan pilihan permainan dari provider unggulan, akses mudah tanpa hambatan, dan pengalaman bermain yang menyenangkan setiap harinya.",
   "brand": {
@@ -43,10 +43,10 @@
   },
   "sku": "LANDAKTOTO-GCR-2026",
   "mpn": "LANDAK-77GCR-2026",
-  "url": "https://youthcamp.unisbank.ac.id/",
+  "url": "https://dtsi.unisbank.ac.id/",
   "offers": {
     "@type": "Offer",
-    "url": "https://youthcamp.unisbank.ac.id/",
+    "url": "https://dtsi.unisbank.ac.id/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2026-12-31",
@@ -106,49 +106,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "item": "https://dtsi.unisbank.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LANDAKTOTO LOGIN",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "item": "https://dtsi.unisbank.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "LANDAKTOTO RESMI",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "item": "https://dtsi.unisbank.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "LANDAKTOTO JITU",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "item": "https://dtsi.unisbank.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS LANDAKTOTO",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "item": "https://dtsi.unisbank.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "LINK RESMI SLOT",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "item": "https://dtsi.unisbank.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "AKSES LOGIN RESMI",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "item": "https://dtsi.unisbank.ac.id/"
     },
     {
       "@type": "ListItem",
       "position": 8,
-      "name": "LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya",
-      "item": "https://youthcamp.unisbank.ac.id/"
+      "name": "LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya",
+      "item": "https://dtsi.unisbank.ac.id/"
     }
   ]
 }
@@ -159,7 +159,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LANDAKTOTO",
-  "url": "https://youthcamp.unisbank.ac.id/",
+  "url": "https://dtsi.unisbank.ac.id/",
   "logo": "https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp",
   "sameAs": [
     "https://www.facebook.com/LANDAKTOTO",
@@ -223,19 +223,19 @@
 
         //]]>
     </script>
-   <meta property="og:title" content="LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
-    <meta property="og:description" content="LANDAKTOTO hadir sebagai YouthCamp situs toto online modern 2026 yang mengusung teknologi digital terbaru, akses cepat, sistem responsif, keamanan berlapis, serta pengalaman platform online yang nyaman. Bergabung bersama LANDAKTOTO dan nikmati layanan modern dengan performa stabil, fitur lengkap, serta dukungan profesional selama 24 jam.">
+   <meta property="og:title" content="LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
+    <meta property="og:description" content="LANDAKTOTO hadir sebagai situs toto online modern 2026 yang mengusung teknologi digital terbaru, akses cepat, sistem responsif, keamanan berlapis, serta pengalaman platform online yang nyaman. Bergabung bersama LANDAKTOTO dan nikmati layanan modern dengan performa stabil, fitur lengkap, serta dukungan profesional selama 24 jam.">
     <meta property="og:image" content="https://kim-kim-min.pages.dev/banner/toto.jpg">
-    <meta property="og:image:alt" content="LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
-    <meta property="og:url" content="https://youthcamp.unisbank.ac.id/">
+    <meta property="og:image:alt" content="LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
+    <meta property="og:url" content="https://dtsi.unisbank.ac.id/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="LANDAKTOTO">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
+    <meta name="twitter:title" content="LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
     <meta name="twitter:description" content="LANDAKTOTO jadi pilihan utama para pecinta slot karena link gacornya selalu bisa diandalkan, gampang menang, dan suasana bermainnya bikin ketagihan setiap saat.">
     <meta name="twitter:image" content="https://kim-kim-min.pages.dev/banner/toto.jpg">
-    <meta name="twitter:image:alt" content="LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
+    <meta name="twitter:image:alt" content="LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya">
 
     <meta name="robots" content="index, follow">
     <meta name="bingbot" content="index, follow">
@@ -890,16 +890,16 @@
 
 <body class="color-scheme-dark" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO</a>
-<a href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO LOGIN</a>
-<a href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO RESMI</a>
-<a href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO SLOT</a>
-<a href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO SLOT JITU</a>
-<a href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO SITUS RESMI</a>
-<a href="https://youthcamp.unisbank.ac.id/">SITUS SLOT ONLINE</a>
-<a href="https://youthcamp.unisbank.ac.id/">TIPS BERMAIN SLOT</a>
-<a href="https://youthcamp.unisbank.ac.id/">TIPS JITU SLOT GACOR</a>
-<a href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO BANDAR TERPERCAYA</a>
+<a href="https://dtsi.unisbank.ac.id/">LANDAKTOTO</a>
+<a href="https://dtsi.unisbank.ac.id/">LANDAKTOTO LOGIN</a>
+<a href="https://dtsi.unisbank.ac.id/">LANDAKTOTO RESMI</a>
+<a href="https://dtsi.unisbank.ac.id/">LANDAKTOTO SLOT</a>
+<a href="https://dtsi.unisbank.ac.id/">LANDAKTOTO SLOT JITU</a>
+<a href="https://dtsi.unisbank.ac.id/">LANDAKTOTO SITUS RESMI</a>
+<a href="https://dtsi.unisbank.ac.id/">SITUS SLOT ONLINE</a>
+<a href="https://dtsi.unisbank.ac.id/">TIPS BERMAIN SLOT</a>
+<a href="https://dtsi.unisbank.ac.id/">TIPS JITU SLOT GACOR</a>
+<a href="https://dtsi.unisbank.ac.id/">LANDAKTOTO BANDAR TERPERCAYA</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -986,7 +986,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://youthcamp.unisbank.ac.id/">EnvatoMarket</a>
+                    <a href="https://dtsi.unisbank.ac.id/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -994,40 +994,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://youthcamp.unisbank.ac.id/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://dtsi.unisbank.ac.id/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://youthcamp.unisbank.ac.id/">
+                    <a class="off-canvas-left__site" href="https://dtsi.unisbank.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://youthcamp.unisbank.ac.id/">
+                    <a class="off-canvas-left__site" href="https://dtsi.unisbank.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://youthcamp.unisbank.ac.id/">
+                    <a class="off-canvas-left__site" href="https://dtsi.unisbank.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://youthcamp.unisbank.ac.id/">
+                    <a class="off-canvas-left__site" href="https://dtsi.unisbank.ac.id/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://youthcamp.unisbank.ac.id/">
+                    <a class="off-canvas-left__site" href="https://dtsi.unisbank.ac.id/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://youthcamp.unisbank.ac.id/">
+                    <a class="off-canvas-left__site" href="https://dtsi.unisbank.ac.id/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1036,7 +1036,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://youthcamp.unisbank.ac.id/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://dtsi.unisbank.ac.id/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1051,393 +1051,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://dtsi.unisbank.ac.id/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://dtsi.unisbank.ac.id/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Real
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://dtsi.unisbank.ac.id/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link--empty" href="https://dtsi.unisbank.ac.id/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://dtsi.unisbank.ac.id/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://dtsi.unisbank.ac.id/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link--empty" href="https://dtsi.unisbank.ac.id/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://dtsi.unisbank.ac.id/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://dtsi.unisbank.ac.id/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://dtsi.unisbank.ac.id/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://dtsi.unisbank.ac.id/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link--empty" href="https://dtsi.unisbank.ac.id/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://youthcamp.unisbank.ac.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://dtsi.unisbank.ac.id/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Free
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://youthcamp.unisbank.ac.id/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://dtsi.unisbank.ac.id/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://youthcamp.unisbank.ac.id/">Unlimited
+                                    href="https://dtsi.unisbank.ac.id/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1447,7 +1447,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://youthcamp.unisbank.ac.id/">Unlimited
+                            href="https://dtsi.unisbank.ac.id/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1459,7 +1459,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://youthcamp.unisbank.ac.id/">
+                <a class="off-canvas-right__link--cart" href="https://dtsi.unisbank.ac.id/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1484,7 +1484,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://youthcamp.unisbank.ac.id/">
+                                    <a class="btn btn--square" href="https://dtsi.unisbank.ac.id/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1501,21 +1501,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://youthcamp.unisbank.ac.id/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://dtsi.unisbank.ac.id/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://youthcamp.unisbank.ac.id/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://dtsi.unisbank.ac.id/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://youthcamp.unisbank.ac.id/">
+                                    <a href="https://dtsi.unisbank.ac.id/">
                                         <img alt="Logo Baru" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1530,19 +1530,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://youthcamp.unisbank.ac.id/">
+                                    <a href="https://dtsi.unisbank.ac.id/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://youthcamp.unisbank.ac.id/">
+                                                <a class="global-header-menu__link" href="https://dtsi.unisbank.ac.id/">
                                                     <span class="global-header-menu__link-text">
                                                         LANDAKTOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://youthcamp.unisbank.ac.id/">
+                                                <a class="global-header-menu__link" href="https://dtsi.unisbank.ac.id/">
                                                     <span class="global-header-menu__link-text">
                                                         SITUS RESMI
                                                     </span>
@@ -1564,7 +1564,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://youthcamp.unisbank.ac.id/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://dtsi.unisbank.ac.id/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1669,21 +1669,21 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO</a>
+                                <a class="js-breadcrumb-category" href="https://dtsi.unisbank.ac.id/">LANDAKTOTO</a>
 
 
-                                <a href="https://youthcamp.unisbank.ac.id/" class="js-breadcrumb-category">TIPS JITU</a><a class="js-breadcrumb-category" href="https://youthcamp.unisbank.ac.id/">SLOT GACOR</a>
+                                <a href="https://dtsi.unisbank.ac.id/" class="js-breadcrumb-category">TIPS JITU</a><a class="js-breadcrumb-category" href="https://dtsi.unisbank.ac.id/">SLOT GACOR</a>
 
-                                <a class="js-breadcrumb-category" href="https://youthcamp.unisbank.ac.id/">AKSES LOGIN RESMI</a>
+                                <a class="js-breadcrumb-category" href="https://dtsi.unisbank.ac.id/">AKSES LOGIN RESMI</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya
+                                            LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya
                                         </h1>
                                     </div>
 
@@ -1702,7 +1702,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://youthcamp.unisbank.ac.id/">LANDAKTOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://dtsi.unisbank.ac.id/">LANDAKTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1736,7 +1736,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://youthcamp.unisbank.ac.id/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://dtsi.unisbank.ac.id/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1969,7 +1969,7 @@ a:hover {
                         "items": [{
                             "affiliation": "themeforest",
                             "item_id": 8988002,
-                            "item_name": "LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya",
+                            "item_name": "LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya",
                             "item_brand": "tokopress",
                             "item_category": "wordpress",
                             "item_category2": "ecommerce",
@@ -1994,13 +1994,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://youthcamp.unisbank.ac.id/"><span
+                                                        href="https://dtsi.unisbank.ac.id/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://youthcamp.unisbank.ac.id/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://dtsi.unisbank.ac.id/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2023,8 +2023,8 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://kim-kim-min.pages.dev/youthcamp.unisbank.ac.id/amp" rel="noopener noreferrer"><img src="https://kim-kim-min.pages.dev/banner/toto.jpg" alt="LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya" width="575" height="575" srcset="https://kim-kim-min.pages.dev/banner/toto.jpg 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
-                                <div class="js- item-preview-image__gallery" data-title="LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
+                            <a target="_blank" href="https://kim-kim-min.pages.dev/youthcamp.unisbank.ac.id/amp" rel="noopener noreferrer"><img src="https://kim-kim-min.pages.dev/banner/toto.jpg" alt="LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya" width="575" height="575" srcset="https://kim-kim-min.pages.dev/banner/toto.jpg 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                                <div class="js- item-preview-image__gallery" data-title="LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/02_marketica2_shop_page.png">MARKETICA_PREVIEW/02_marketica2_shop_page.png</a>
@@ -2077,7 +2077,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://youthcamp.unisbank.ac.id/">
+                                <a class="item-description-toggle__link" href="https://dtsi.unisbank.ac.id/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2115,8 +2115,8 @@ a:hover {
                     <div class="pricebox-container" bis_skin_checked="1">
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://youthcamp.unisbank.ac.id/" accept-charset="UTF-8" method="post">
+                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                    action="https://dtsi.unisbank.ac.id/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2142,12 +2142,12 @@ a:hover {
                                                             </div>
                                                             <div class="license-selector__description" bis_skin_checked="1">
                                                                 <p class="t-body -size-m h-m0">
-                                                                    LANDAKTOTO hadir sebagai YouthCamp situs toto online modern 2026 yang mengusung teknologi digital terbaru, akses cepat, sistem responsif, keamanan berlapis, serta pengalaman platform online yang nyaman. Bergabung bersama LANDAKTOTO dan nikmati layanan modern dengan performa stabil, fitur lengkap, serta dukungan profesional selama 24 jam.!</p>
+                                                                    LANDAKTOTO hadir sebagai situs toto online modern 2026 yang mengusung teknologi digital terbaru, akses cepat, sistem responsif, keamanan berlapis, serta pengalaman platform online yang nyaman. Bergabung bersama LANDAKTOTO dan nikmati layanan modern dengan performa stabil, fitur lengkap, serta dukungan profesional selama 24 jam.!</p>
                                                                     </div>
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://youthcamp.unisbank.ac.id//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://dtsi.unisbank.ac.id//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -3423,7 +3423,7 @@ a:hover {
             </div>
 
             <div class="popup-footer">
-                LANDAKTOTO - Daftar YouthCamp Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya<br/>
+                LANDAKTOTO - Daftar Situs Toto Online Modern 2026 dengan Platform Digital Inovatif & Akses Cepat Terpercaya<br/>
                 <span style="color: #fed804; font-weight: 600; text-shadow: 0 0 5px rgb(255, 210, 0);">&copy; COPYRIGHT 2026 LANDAKTOTO x SEO PANGSIT</span>
             </div>
         </div>
